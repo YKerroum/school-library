@@ -1,3 +1,4 @@
+require_relative 'nameable'
 # Class: Person
 class Person < Nameable
   attr_accessor :name, :age
