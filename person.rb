@@ -13,6 +13,10 @@ class Person < Nameable
     @rentals = []
   end
 
+  def add_rental(rental)
+    @rentals << rental
+  end
+
   def is_of_age? # rubocop:disable Naming/PredicateName
     @age >= 18
   end

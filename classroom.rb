@@ -10,6 +10,6 @@ class Classroom
 
   def add_student(student)
     @students << student
-    student.classroom = @label
+    student.classroom = self
   end
 end
