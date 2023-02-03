@@ -58,6 +58,12 @@ To setup the project locally, clone the repository using:
 
 `https://github.com/YKerroum/school-library.git`
 
+### Usage
+
+To run the project, execute the following command:
+
+`ruby main.rb`
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
